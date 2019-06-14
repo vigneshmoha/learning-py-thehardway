@@ -23,4 +23,4 @@ Contains the list of exercises from Python Learn the hard way book
 |\xhh| Character with hex value hh|
 
 ## Todo
-- [] Learn Zork & Adventure game and implement it in Python
+- [ ] Learn Zork & Adventure game and implement it in Python
