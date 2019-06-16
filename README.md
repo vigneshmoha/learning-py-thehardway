@@ -6,7 +6,7 @@ Contains the list of exercises from Python Learn the hard way book
 ## Escape Sequences
 | Escape | What it does |
 |---|---|
-|\\| Backslash (\)|
+|//| Backslash (\)|
 |\' | Single-quote (’)|
 |\"| Double-quote (”)|
 |\a| ASCII bell (BEL)|
